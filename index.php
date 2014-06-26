@@ -1,3 +1,5 @@
 <?php
 
-echo 'test';
+$m = 'test';
+
+echo $m;
