@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/chat/views/message/index.php",
+		"/C/wamp/www/chat/views/_common/head.html",
+		"/C/wamp/www/chat/views/_common/header.html",
+		"/C/Users/Imen/Dropbox/legomania-v4/show.php",
+		"/C/Users/Imen/Dropbox/livre d'or/show.php",
+		"/C/Users/Imen/Dropbox/livre d'or/new.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/views/message/index.php",
+		"/C/wamp/www/chat/views/user/auth.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/init.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/index.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/web/enter.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/views/user/auth.php",
+		"/C/wamp/www/chat/views/user/authcheck.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/views/user/authcheck.php",
+		"/C/wamp/www/chat/functions/get_db_link.php",
+		"/C/wamp/www/chat/controllers/message/create.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/web/index.php",
+		"/C/Users/Imen/Dropbox/7_chatroom/web/user_auth.php",
+		"/C/wamp/www/chat/init.php",
+		"/C/Users/Imen/Dropbox/sites/structure_html5/css/fiche.css",
+		"/C/Users/Imen/Dropbox/sites/structure_html5/fiche personnelle.html",
+		"/C/wamp/www/chat/views/_common/footer.html",
+		"/C/wamp/www/legomania-v2/index.php",
+		"/C/wamp/www/legomania-v3/php/controller-index.php",
+		"/C/wamp/www/siteperso/index.php",
+		"/C/Users/Imen/Dropbox/php-master/legomania-v3/create.php",
+		"/C/Users/Imen/Dropbox/php-master/legomania-v2/create.php",
+		"/C/Users/Imen/Dropbox/php-master/legomania-v2/php/controller-index.php",
+		"/C/Users/Imen/Dropbox/php-master/legomania-v2/index.php",
+		"/C/wamp/www/legomania-v3/index.php",
+		"/C/wamp/www/legomania-v3/php/functions.php",
+		"/C/wamp/www/legomania-v3/create.php",
+		"/C/wamp/www/legomania-v3/legomania.sql",
+		"/C/Users/Imen/Dropbox/legomaniac/concatenation.php",
+		"/C/Users/Imen/Dropbox/sites/8 - blue-master/css/bluemaster.css",
+		"/C/Users/Imen/Dropbox/sites/8 - blue-master/bluemaster.html",
+		"/C/Users/Imen/Dropbox/sites/8 - blue-master/blueMaster (2).html",
+		"/C/Users/Imen/Dropbox/sites/8 - blue-master/blue.css",
+		"/C/Users/Imen/Dropbox/blueMaster.html",
+		"/C/Users/Imen/Dropbox/blue.css",
+		"/C/Users/Imen/Desktop/sites/8 - blue-master/css/bluemaster.css",
+		"/C/Users/Imen/Desktop/sites/8 - blue-master/bluemaster.html",
+		"/C/Users/Imen/Dropbox/legomaniac/controleur.php",
+		"/C/Users/Imen/Dropbox/legomaniac/index.php",
+		"/C/Users/Imen/Dropbox/legomaniac/legomaniac.css",
+		"/C/Users/Imen/AppData/Roaming/Dropbox/bin/Dropbox.exe",
+		"/C/Users/Imen/Desktop/site personalisée/site.html",
+		"/C/Users/Imen/Desktop/site personalisée/css/site.css",
+		"/C/Users/Imen/Desktop/sites/structure_entete/css/positionnement.css",
+		"/C/Users/Imen/Desktop/sites/structure_html5/css/fiche.css",
+		"/C/Users/Imen/Desktop/sites/structure_html5/fiche personnelle.html",
+		"/C/Users/Imen/Desktop/sites/heritage/heritage.html",
+		"/C/Users/Imen/Desktop/sites/structure_html5/js/utilities.js",
+		"/C/Users/Imen/Desktop/sites/structure_html5/js/slider.js",
+		"/C/Users/Imen/Desktop/sites/carousel-ressources/js/slider.js",
+		"/C/Users/Imen/Desktop/CORRECTION PROF/carousel/slider.html",
+		"/C/Users/Imen/Desktop/CORRECTION PROF/carousel/css/slider.css",
+		"/C/Users/Imen/Desktop/sites/sites/4 - real-tea/style.css",
+		"/C/Users/Imen/Desktop/sites/sites/4 - real-tea/4-real-tea.html",
+		"/C/Users/Imen/Desktop/sites/sites/4 - real-tea/julie/real_tea.html",
+		"/C/Users/Imen/Desktop/sites/sites/4 - real-tea/julie/style.css",
+		"/C/Users/Imen/Dropbox/julie/style.css",
+		"/C/Users/Imen/Desktop/sites/sites/4 - real-tea/julie/reset.css",
+		"/C/Users/Imen/Desktop/sites/sites/4 - real-tea/reset.css",
+		"/C/Users/Imen/Desktop/4 - real-tea/4-real-tea.html",
+		"/C/Users/Imen/Desktop/4 - real-tea/style.css",
+		"/C/Users/Imen/Dropbox/julie/real_tea.html",
+		"/C/Users/Imen/Dropbox/sites/3-frech-restaurant/3-frech-restaurant/3-frech-restaurant.html",
+		"/C/Users/Imen/Desktop/recette1.html",
+		"/C/Users/Imen/Desktop/4 - real-tea/reset.css",
+		"/C/Users/Imen/Dropbox/js1/js/exercice18.js",
+		"/C/Users/Imen/Dropbox/js1/js/exercice17.js",
+		"/C/Users/Imen/Desktop/site baba sanfour/baba sanfour.html",
+		"/C/Users/Imen/Dropbox/sites/2 - green-orange/2-green-orange.html",
+		"/C/Users/Imen/Desktop/sites/sites/3-frech-restaurant/3-frech-restaurant/3-frech-restaurant.html",
+		"/C/Users/Imen/Desktop/sites/3-frech-restaurant/3-frech-restaurant.html",
+		"/C/Users/Imen/Desktop/sites/3-frech-restaurant/3-frech-restaurant",
+		"/C/Users/Imen/Desktop/sites/exercice 1/Test2",
+		"/C/Users/Imen/Desktop/sites/2 - green-orange/2-green-orange.html",
+		"/C/Users/Imen/Desktop/sites/3-frech-restaurant/puce frech restaurant.html",
+		"/C/Users/Imen/Dropbox/sites/3-frech-restaurant/3-frech-restaurant",
+		"/C/Users/Imen/Desktop/test.html",
+		"/C/Users/Imen/Desktop/jour2_int2",
+		"/C/Users/Imen/Dropbox/jour2_int2"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ceat",
+				"create.php"
+			],
+			[
+				"sql",
+				"legomania.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
